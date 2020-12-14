@@ -10,3 +10,10 @@ In this project I have used student´s-t as error and bayesian inference to get 
 See the [application](https://github.com/diego-renato/Student-t-Regression-with-Bayesian-inference/blob/master/Application.ipynb).
 
 <br />
+
+<img align="left" width="250" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTEY9ijJoZbifELxraV6xXRhBp71-ixzvws_w&usqp=CAU"> **[Brewing-datacup 2020](https://github.com/diego-renato/R-L-Solutions-BDC)**
+
+This is our solution for the brewing-datacup 2020(rank 8/41). The main problem was to create a model to estimate the probability that a customer will take a promotion. To generate the solution techniques as feature engineering(features aggregation) and group cross validation improved the score. A package in python was built to generate the solution. 
+
+<br />
+
